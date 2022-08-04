@@ -18,3 +18,5 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=Wid060&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="250px" alt="stats" />
 </p>
+##  Discord Activity
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/466202190998929408)](https://discord.com/users/466202190998929408)
